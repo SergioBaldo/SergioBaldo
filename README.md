@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<br />
 
 ### Who am I?
 * :technologist: Data Scientist in Development
@@ -27,7 +26,6 @@ Here are some ideas to get you started:
 * :gear: Technical Degree in Mechatronics
 * :man_student: Bachelor of Biomedica Informatics - USP
 
-<br />
 
 ### I am interested in:
 * :brain: Neuroscience
@@ -42,8 +40,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="SergioBaldo | LinkedIn" width="22px" src="img/instagram.png" />][instagram]
 [<img align="left" alt="SergioBaldo | Twitter" width="22px" src="img/twitter.png" />][twitter]
 
-
-<br />
 
 ### Languages and Tools:
 
@@ -64,7 +60,6 @@ Here are some ideas to get you started:
 <img src="img/macos.svg" alt="MacOS" height="40" style="vertical-align:top; margin:4px">
 
 
-</p>
 
 
 
