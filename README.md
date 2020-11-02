@@ -33,8 +33,11 @@ Here are some ideas to get you started:
 <p align="left">
 <img src="img/python.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="img/javascript.svg" alt="JS" height="40" style="vertical-align:top; margin:4px">
-
+<img src="img/c.png" alt="c" height="40" style="vertical-align:top; margin:4px">
 <img src="img/visualstudio.svg" alt="Visual Studio Code" height="40" style="vertical-align:top; margin:4px">
+<img src="img/jupyter.svg" alt="jupyter" height="40" style="vertical-align:top; margin:4px">
+<img src="img/tensorflow.png" alt="tensorflow" height="40" style="vertical-align:top; margin:4px">
+<img src="img/keras.png" alt="keras" height="40" style="vertical-align:top; margin:4px">
 <img src="img/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
 <img src="img/github.png" alt="GitHub" height="40" style="vertical-align:top; margin:4px">
 <img src="img/postgresql.svg" alt="postgresql" height="40" style="vertical-align:top; margin:4px">
