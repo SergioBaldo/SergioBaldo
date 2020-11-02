@@ -24,8 +24,17 @@ Here are some ideas to get you started:
 ### Who am I?
 * :technologist: Data Scientist in Development
 * :man_scientist: Researcher
-* :brain: Interested in Neuroscience
+* :man_mechanic: Technical Degree in Mechatronics
 * :man_student: Bachelor of Biomedica Informatics - USP
+
+<br />
+
+### I am interested in:
+* <img src="img/brain.png" alt="Brain" height="40" style="vertical-align:top; margin:4px"> Neuroscience
+* Machine Learning
+*
+* 
+
 
 ### Find me around the world :earth_americas:
 
