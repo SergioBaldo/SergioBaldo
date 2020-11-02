@@ -24,16 +24,16 @@ Here are some ideas to get you started:
 ### Who am I?
 * :technologist: Data Scientist in Development
 * :man_scientist: Researcher
-* :man_mechanic: Technical Degree in Mechatronics
+* :gear: Technical Degree in Mechatronics
 * :man_student: Bachelor of Biomedica Informatics - USP
 
 <br />
 
 ### I am interested in:
-* <img src="img/brain.png" alt="Brain" height="40" style="vertical-align:top; margin:4px"> Neuroscience
-* Machine Learning
-*
-* 
+* :brain: Neuroscience
+* :desktop_computer: Machine Learning
+* :electron: Artificial Neural Networks
+* :dna: Genetic Algorithm
 
 
 ### Find me around the world :earth_americas:
@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 
 <p align="left">
 <img src="img/python.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="img/Rlogo.svg" alt="R" height="40" style="vertical-align:top; margin:4px">
 <img src="img/javascript.svg" alt="JS" height="40" style="vertical-align:top; margin:4px">
 <img src="img/c.png" alt="c" height="40" style="vertical-align:top; margin:4px">
 <img src="img/visualstudio.svg" alt="Visual Studio Code" height="40" style="vertical-align:top; margin:4px">
