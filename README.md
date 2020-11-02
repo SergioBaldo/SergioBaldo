@@ -26,6 +26,24 @@ Here are some ideas to get you started:
 [<img align="left" alt="SergioBaldo | Twitter" width="22px" src="img/twitter.png" />][twitter]
 
 
+<br />
+
+### Languages and Tools:
+
+<p align="left">
+<img src="img/python.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="img/javascript.svg" alt="JS" height="40" style="vertical-align:top; margin:4px">
+
+<img src="img/visualstudio.svg" alt="Visual Studio Code" height="40" style="vertical-align:top; margin:4px">
+<img src="img/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
+<img src="img/github.png" alt="GitHub" height="40" style="vertical-align:top; margin:4px">
+<img src="img/postgresql.svg" alt="postgresql" height="40" style="vertical-align:top; margin:4px">
+<img src="img/mysql.svg" alt="mysql" height="40" style="vertical-align:top; margin:4px">
+<img src="img/linux.svg" alt="Linux" height="40" style="vertical-align:top; margin:4px">
+<img src="img/macos.svg" alt="MacOS" height="40" style="vertical-align:top; margin:4px">
+
+
+</p>
 
 
 
