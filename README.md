@@ -19,6 +19,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<br />
+
+### Who am I?
+* :technologist: Data Scientist in Development
+* :man_scientist: Researcher
+* :brain: Interested in Neuroscience
+* :man_student: Bachelor of Biomedica Informatics - USP
+
 ### Find me around the world :earth_americas:
 
 [<img align="left" alt="SergioBaldo | YouTube" width="22px" src="img/linkedin.png" />][linkedin]
