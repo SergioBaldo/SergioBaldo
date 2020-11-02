@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Eu](https://github.com/SergioBaldo/SergioBaldo/blob/main/profilebanner.png)
+![Eu](https://github.com/SergioBaldo/SergioBaldo/blob/main/banner.png)
