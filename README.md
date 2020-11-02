@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 
 ### Find me around the world :earth_americas:
 
+[linkedin](https://www.linkedin.com/in/sergiobaldo/)
