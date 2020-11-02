@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 <img src="img/linux.svg" alt="Linux" height="40" style="vertical-align:top; margin:4px">
 <img src="img/macos.svg" alt="MacOS" height="40" style="vertical-align:top; margin:4px">
 
-
+</p>
 
 
 
