@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-![Eu](https://github.com/SergioBaldo/SergioBaldo/blob/main/banner.png)
+![Eu](img/banner.png)
 
 
 - 🔭 I’m currently working on ...
@@ -21,4 +21,16 @@ Here are some ideas to get you started:
 
 ### Find me around the world :earth_americas:
 
-[linkedin](https://www.linkedin.com/in/sergiobaldo/)
+[<img align="left" alt="SergioBaldo | YouTube" width="22px" src="img/linkedin.png" />][linkedin]
+[<img align="left" alt="SergioBaldo | LinkedIn" width="22px" src="img/instagram.png" />][instagram]
+[<img align="left" alt="SergioBaldo | Twitter" width="22px" src="img/twitter.png" />][twitter]
+
+
+
+
+
+[linkedin]: https://www.linkedin.com/in/sergiobaldo/
+[twitter]: https://twitter.com/SergioBaldo1
+[instagram]: https://www.instagram.com/sergiobaldo_/
+
+
