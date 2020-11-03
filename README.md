@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 
 </p>
 
+### My Projects :clipboard: :pen:
 
 ### :zap:  GitHub Stats	
 
