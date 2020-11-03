@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 
 </p>
 
-<br />
 
 ### :zap:  GitHub Stats	
 
-<img align="left" alt="SergioBaldo GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SergioBaldo&show_icons=true&hide_border=true" />
+![SergioBaldo GitHub Stats](https://github-readme-stats.vercel.app/api?username=SergioBaldo&theme=gotham&show_icons=true)
+
 
 [linkedin]: https://www.linkedin.com/in/sergiobaldo/
 [twitter]: https://twitter.com/SergioBaldo1
