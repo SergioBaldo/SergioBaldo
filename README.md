@@ -58,6 +58,10 @@ Here are some ideas to get you started:
 
 ### My Projects :clipboard: :pen:
 
+Under Construction 
+
+<img src="img/construction.png" alt="Construction" height="40" style="vertical-align:top; margin:4px">
+
 ![Load](img/load.gif)
 
 ### :zap:  GitHub Stats	
