@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 * :brain:  Neuroscience
 * :desktop_computer:  Machine Learning
 * :electron: Artificial Neural Networks
-* :dna:  Genetic Algorithm
+* :dna:  Genetic Algorithms
 
 
 ### Find me around the world :earth_americas:
@@ -56,7 +56,11 @@ Here are some ideas to get you started:
 
 </p>
 
+<br />
 
+### :zap:  GitHub Stats	
+
+<img align="left" alt="SergioBaldo GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SergioBaldo&show_icons=true&hide_border=true" />
 
 [linkedin]: https://www.linkedin.com/in/sergiobaldo/
 [twitter]: https://twitter.com/SergioBaldo1
