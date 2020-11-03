@@ -58,6 +58,8 @@ Here are some ideas to get you started:
 
 ### My Projects :clipboard: :pen:
 
+![Load](img/load.gif)
+
 ### :zap:  GitHub Stats	
 
 ![SergioBaldo GitHub Stats](https://github-readme-stats.vercel.app/api?username=SergioBaldo&theme=vue-dark&show_icons=true)
