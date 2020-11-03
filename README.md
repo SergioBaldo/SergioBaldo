@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-![Eu](img/banner.png)
+![Sergio Profile](img/banner.png)
 
 
 - 🔭 I’m currently working on ...
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 * :technologist: Data Scientist in Development
 * :man_scientist: Researcher
 * :gear: Technical Degree in Mechatronics
-* :man_student: Bachelor of Biomedica Informatics - USP
+* :man_student: Bachelor of Biomedical Informatics - USP
 
 
 ### I am interested in:
@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="SergioBaldo | LinkedIn" width="22px" src="img/instagram.png" />][instagram]
 [<img align="left" alt="SergioBaldo | Twitter" width="22px" src="img/twitter.png" />][twitter]
 
+<br />
 
 ### Languages and Tools:
 
