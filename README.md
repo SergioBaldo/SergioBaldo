@@ -1,10 +1,8 @@
-### Hi, I'm Sergio :technologist: :man_scientist: 👋
+### Hi, I'm Sérgio :technologist: :man_scientist: 👋
 
 <!--
-**SergioBaldo/SergioBaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+Background  profile photo reference : <a href="http://www.freepik.com">Designed by starline / Freepik</a>
+Icons reference : https://icons8.com/
 -->
 
 ![Sergio Profile](img/banner.png)
