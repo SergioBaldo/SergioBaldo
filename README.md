@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 
 
 ### I am interested in:
-* :brain: Neuroscience
-* :desktop_computer: Machine Learning
+* :brain:  Neuroscience
+* :desktop_computer:  Machine Learning
 * :electron: Artificial Neural Networks
-* :dna: Genetic Algorithm
+* :dna:  Genetic Algorithm
 
 
 ### Find me around the world :earth_americas:
