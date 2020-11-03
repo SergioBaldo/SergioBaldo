@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 ### My Projects :clipboard: :pen:
 
-## * Under Construction  
+* Under Construction  
 <img src="img/construction.png" alt="Construction" height="60" style="vertical-align:top; margin:4px"> 
 
 
