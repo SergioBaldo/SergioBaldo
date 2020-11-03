@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 ### :zap:  GitHub Stats	
 
-![SergioBaldo GitHub Stats](https://github-readme-stats.vercel.app/api?username=SergioBaldo&theme=gotham&show_icons=true)
+![SergioBaldo GitHub Stats](https://github-readme-stats.vercel.app/api?username=SergioBaldo&theme=vue-dark&show_icons=true)
 
 
 [linkedin]: https://www.linkedin.com/in/sergiobaldo/
