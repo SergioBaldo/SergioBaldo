@@ -7,7 +7,7 @@ Icons reference : https://icons8.com/
 
 ![Sergio Profile](img/banner.png)
 
-- 🔭 I’m currently working on my research project whose title is Feature Selection by Genetic Algorithms for Classification of Running Patterns in High-Performance Sports
+- 🔭 I'm currently working on my master's degree dissertation whose title is Genetic Algorithms and Recurrent Neural Networks of the LSTM type to aid medical diagnosis.
 - 🌱 I’m currently learning Neural Networks and Neuroscience
 - 💬 Ask me about Machine Learning
 - 📫 How to reach me: sergiobaldo@usp.br
