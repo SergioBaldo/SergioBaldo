@@ -60,11 +60,6 @@ Icons reference : https://icons8.com/
 
 
 
-### :zap:  GitHub Stats	
-
-![SergioBaldo GitHub Stats](https://github-readme-stats.vercel.app/api?username=SergioBaldo&theme=vue-dark&show_icons=true)
-
-
 [linkedin]: https://www.linkedin.com/in/sergiobaldo/
 [twitter]: https://twitter.com/SergioBaldo1
 [instagram]: https://www.instagram.com/sergiobaldo_/
